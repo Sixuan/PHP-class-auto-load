@@ -1,3 +1,5 @@
+<?php
+
 autoload_class();
 
 function autoload_class() {
@@ -15,3 +17,6 @@ function autoload_class() {
         }
     }
 }
+
+
+?>
